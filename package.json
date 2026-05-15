@@ -13,5 +13,10 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
+  },
+  "eslintConfig": {
+  "rules": {
+    "no-useless-escape": "off"
   }
+}
 }

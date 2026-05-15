@@ -6,3 +6,7 @@
 	path = backend
 	url = https://github.com/SENODROOM/PolyCode-Backend.git
 	branch = main
+[submodule "PolyGuard"]
+	path = PolyGuard
+	url = https://github.com/QuantumLogicsLabs/PolyGuard.git
+	branch = main
