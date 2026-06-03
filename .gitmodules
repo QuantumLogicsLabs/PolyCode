@@ -10,3 +10,7 @@
 	path = PolyGuard
 	url = https://github.com/QuantumLogicsLabs/PolyGuard.git
 	branch = main
+[submodule "PolyMentor"]
+	path = PolyMentor
+	url = https://github.com/QuantumLogicsLabs/PolyMentor.git
+	branch = main
