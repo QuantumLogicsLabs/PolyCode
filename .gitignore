@@ -12,3 +12,5 @@ data/
 .txtignore
 PolyCode.txt
 .vscode/
+.claude/
+.cursor/
