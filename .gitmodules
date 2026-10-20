@@ -1,10 +1,10 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/SENODROOM/PolyCode-Frontend.git
+	url = https://github.com/QuantumLogicsLabs/PolyCode-Frontend.git
 	branch = main
 [submodule "backend"]
 	path = backend
-	url = https://github.com/SENODROOM/PolyCode-Backend.git
+	url = https://github.com/QuantumLogicsLabs/PolyCode-Backend.git
 	branch = main
 [submodule "PolyGuard"]
 	path = PolyGuard
